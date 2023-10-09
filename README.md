@@ -1,2 +1,4 @@
-# testimonials
-This repository contains the starter file for the Testimonials assignment. 
+# Testimonials
+
+## Objective
+Practice using flexbox to create a responsive layout. 
